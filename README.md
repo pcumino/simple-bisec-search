@@ -6,5 +6,5 @@ It written in Matlab language.
 **Usage:**
 
     [ans, tries] = sqrtBisec(x, y);
-Where `x` is the value to be calculated and `y` is the precision of the.
-The response is given by `ans` and the number of guesses to find the answer if given by `tries`.
+Where `x` is the value to be calculated and `y` is the result precision.
+The result is given by `ans` and the number of guesses to find the answer if given by `tries`.
